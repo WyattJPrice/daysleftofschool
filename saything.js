@@ -34,5 +34,5 @@ function saything() {
     console.log(date1);
     console.log(Difference_In_Time);
     console.log(Difference_In_Days);
-    document.write("There are " + Difference_In_Days + " school days until the end of school");
+    
 }
