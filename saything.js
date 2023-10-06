@@ -3,7 +3,7 @@ function saything() {
     var today = new Date;
     var date1 = new Date(today.getMonth()+1+'/'+(today.getDate())+'/'+today.getFullYear()); 
 
-    var date2 = new Date("05/26/2023"); 
+    var date2 = new Date("05/26/2024"); 
        
          
      // To calculate the time difference of two dates 
